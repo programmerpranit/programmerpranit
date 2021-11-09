@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @programmerpranit Coder And Freelance Digital Marketer.
 - 👀 I’m interested in Learning New Things in My Domain
 - 🌱 I’m currently learning C++ (DSA), Android Deveploment
-- 💞️ I’m looking to collaborate on some digital marketing gigs.
+- 💞️ I’m looking to collaborate on Android Development gigs.
 - 📫 You can reach me at dev.pranitpatil@gmail.com
 
 <!---
