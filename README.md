@@ -1,16 +1,18 @@
-### Pranit Patil
+# Pranit Patil
 
-**Forward Deployed Engineer · Mumbai**
+**Forward Deployed Engineer · Full Stack Developer · Mumbai, India**
 
 Heavy business problems, shipped light and fast.
 
-I embed with client teams, find the problem worth solving, and ship the software that solves it. Part engineer, part consultant, part product manager: from the first requirements workshop to production, with AI wherever it actually moves the business.
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=programmerpranit.programmerpranit)
+
+I'm a Forward Deployed Engineer based in Mumbai, India. I embed with client teams, find the problem worth solving, and ship the software that solves it. Part engineer, part consultant, part product manager: from the first requirements workshop to production, with AI wherever it actually moves the business.
 
 [pranitpatil.com](https://pranitpatil.com) · [LinkedIn](https://www.linkedin.com/in/pranitcodes/) · [X](https://twitter.com/pro_pranit) · [dev.pranitpatil@gmail.com](mailto:dev.pranitpatil@gmail.com)
 
 ---
 
-#### Now
+## Now
 
 **Forward Deployed Engineer, Pure Billion Technologies** · Jun 2024 to present
 
@@ -19,7 +21,7 @@ I embed with client teams, find the problem worth solving, and ship the software
 - Built features for a traffic analysis platform used by 200,000+ people, rendering 2 lakh+ data points on the frontend without dropping performance.
 - Raised the app's accessibility score by 60%.
 
-#### Before
+## Before
 
 **Full Stack Developer, WebX Studio Digital** · Nov 2022 to Jul 2023
 
@@ -33,20 +35,24 @@ I embed with client teams, find the problem worth solving, and ship the software
 
 ---
 
-#### How I work
+## How I work
 
 - **Start with the business.** Sit with the people who have the problem, map the process, and scope the highest-value thing to build.
 - **Own it end to end.** Requirements, architecture, code, deployment, and the handover after.
-- **Use AI where it earns its place.** Not as a feature checkbox, but where it removes real work.
+- **Use AI where it earns its place.** LLM and AI integrations where they remove real work, not as a feature checkbox.
 - **Ship, then sharpen.** Get it into production early, measure, and iterate with the client.
 
-#### Stack
+## Tech stack
 
 `TypeScript` `JavaScript` `Python` `Go` · `React` `Next.js` `React Native` · `Node.js` `Express` · `PostgreSQL` `MongoDB` `Firebase` `Supabase` `Prisma` · `AWS` `Google Cloud` `Vercel` `GitHub Actions`
 
-#### Writing & talks
+## Writing & talks
 
 - [What is SSR, SSG, ISR in Next.js](https://pranitpatil.com/blogs/what-is-server-side-rendering)
 - [Architecture of Elasticsearch: how it stores data](https://pranitpatil.com/blogs/architecture-of-elasticsearch.-how-elasticsearch-stores-the-data)
 - Talk on WebAssembly at React Mumbai
 - [Web Development 101 workshop](https://pranitpatil.com/talk), A. C. Patil College of Engineering
+
+---
+
+Building AI-powered products, enterprise web apps, and mobile apps with **Next.js, React, React Native, Node.js, Go, and PostgreSQL**. Open to forward deployed, solutions, and full stack engineering conversations.
