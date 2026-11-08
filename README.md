@@ -1,71 +1,52 @@
-# 👋 Hey, I’m **Pranit**  
-**Software Engineer | Backend & Scalable Systems Specialist | Full-Stack Developer**  
+### Pranit Patil
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=programmerpranit.programmerpranit)
+**Forward Deployed Engineer · Mumbai**
 
-I design and build **scalable backend systems, robust APIs, distributed services, and real-world applications** with a practical mindset. I also enjoy creating frontend experiences when needed and have hands-on experience with React Native for mobile development. 🚀
+Heavy business problems, shipped light and fast.
 
----
+I embed with client teams, find the problem worth solving, and ship the software that solves it. Part engineer, part consultant, part product manager: from the first requirements workshop to production, with AI wherever it actually moves the business.
 
-<!-- GitHub Dynamic Stats -->
-<div align="center">
-  <a href="https://github.com/programmerpranit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=programmerpranit&show_icons=true&theme=radical&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/programmerpranit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerpranit&layout=compact&theme=radical" />
-  </a>
-</div>
+[pranitpatil.com](https://pranitpatil.com) · [LinkedIn](https://www.linkedin.com/in/pranitcodes/) · [X](https://twitter.com/pro_pranit) · [dev.pranitpatil@gmail.com](mailto:dev.pranitpatil@gmail.com)
 
 ---
 
-## 🧠 About Me
+#### Now
 
-I’m passionate about crafting **scalable and maintainable backend systems** that serve real users reliably. My engineering approach blends solid architectural principles with hands-on implementation.
+**Forward Deployed Engineer, Pure Billion Technologies** · Jun 2024 to present
 
-**Core interests include:**
-- 🛠️ **Backend Architecture & API Design**
-- ☁️ **Scalable Systems & Cloud Deployment**
-- 💻 **Distributed Services & Performance Optimization**
-- 🧠 **Clean Code & Maintainable Systems**
-- 📱 **React Native & Modern Frontend Development**
+- Led a team of 3 engineers to deliver the Tata Motors DMS project in record time.
+- Work directly with the client on requirement gathering and technical consulting, solving business problems with tech and AI.
+- Built features for a traffic analysis platform used by 200,000+ people, rendering 2 lakh+ data points on the frontend without dropping performance.
+- Raised the app's accessibility score by 60%.
 
-I consistently focus on building systems that are **efficient, reliable, and easy to collaborate on** across teams.
+#### Before
 
----
+**Full Stack Developer, WebX Studio Digital** · Nov 2022 to Jul 2023
 
-## 💡 Skills & Technologies
+- Improved app efficiency by 70% by refining core algorithms.
+- Cut server costs 3x and response times by 50% through backend optimization.
+- Managed a team of 4 interns and their feature deliveries.
 
-| Backend | Frontend | Mobile | Databases | Tools & DevOps |
-|---------|----------|--------|-----------|----------------|
-| Node.js | React | React Native | PostgreSQL | GitHub Actions |
-| Express.js | Next.js | Expo | Firebase | Docker (learning) |
-| REST APIs | TypeScript | JavaScript | Firestore | CI/CD |
-| Scalable Architecture | Tailwind CSS | | | Cloud Providers |
+**Freelance, Eyetech** · Aug 2023 to May 2024
+
+- Built a web app for eye tracking and heat-map generation for ECG training, processing 100+ gaze points per second.
 
 ---
 
-## 📱 React Native Experience
+#### How I work
 
-I’ve built production-ready features with **React Native and Expo**, covering:
-- OTP-based authentication flows
-- Realtime data sync
-- Background operations & performance considerations
-- UI that feels native on both Android & iOS
+- **Start with the business.** Sit with the people who have the problem, map the process, and scope the highest-value thing to build.
+- **Own it end to end.** Requirements, architecture, code, deployment, and the handover after.
+- **Use AI where it earns its place.** Not as a feature checkbox, but where it removes real work.
+- **Ship, then sharpen.** Get it into production early, measure, and iterate with the client.
 
----
+#### Stack
 
-## 📫 Let’s Connect
+`TypeScript` `JavaScript` `Python` `Go` · `React` `Next.js` `React Native` · `Node.js` `Express` · `PostgreSQL` `MongoDB` `Firebase` `Supabase` `Prisma` · `AWS` `Google Cloud` `Vercel` `GitHub Actions`
 
-I’m always open to collaborating on exciting projects, system design discussions, and open-source contributions. 🙌
+#### Writing & talks
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | dev.pranitpatil@gmail.com |
-| GitHub | https://github.com/programmerpranit |
-| LinkedIn | _your LinkedIn link here_ |
-| Twitter | _your Twitter handle here_ |
-
----
-
-Thanks for visiting my profile — let’s build **something great** together! 💫
+- [What is SSR, SSG, ISR in Next.js](https://pranitpatil.com/blogs/what-is-server-side-rendering)
+- [Architecture of Elasticsearch: how it stores data](https://pranitpatil.com/blogs/architecture-of-elasticsearch.-how-elasticsearch-stores-the-data)
+- Talk on WebAssembly at React Mumbai
+- [Web Development 101 workshop](https://pranitpatil.com/talk), A. C. Patil College of Engineering
