@@ -8,7 +8,7 @@ Heavy business problems, shipped light and fast.
 
 I'm a Forward Deployed Engineer based in Mumbai, India. I embed with client teams, find the problem worth solving, and ship the software that solves it. Part engineer, part consultant, part product manager: from the first requirements workshop to production, with AI wherever it actually moves the business.
 
-[pranitpatil.com](https://pranitpatil.com) · [LinkedIn](https://www.linkedin.com/in/pranitcodes/) · [X](https://twitter.com/pro_pranit) · [dev.pranitpatil@gmail.com](mailto:dev.pranitpatil@gmail.com)
+[pranitpatil.com](https://pranitpatil.com) · [LinkedIn](https://www.linkedin.com/in/pranitcodes/) · [X](https://x.com/pranitcodes) · [dev.pranitpatil@gmail.com](mailto:dev.pranitpatil@gmail.com)
 
 ---
 
